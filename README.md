@@ -1,2 +1,2 @@
 # Weather-app
-Gives Realtime Weather details of a location. 
+Gives realtime weather details of a location. 
